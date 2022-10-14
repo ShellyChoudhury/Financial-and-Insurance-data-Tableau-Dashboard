@@ -13,6 +13,7 @@ Created an interactive dashboards with the folowing features
 Map diplays countries by income level.It has been linked  with wikipedia and income level , made dynamic by using filters.
 
 **KPI Table**
+
 KPI table shows the comparison between selected period and the period prior to the selected one. Two parametes, "Select Category" and "Select Year" have been created for this comparison. "Select Category" parameter includes life insurance share, market share, penetration, ratio of reinsurance accepted, and retention ratio
 Created a calculated field to calculate the Growth in %. Table gets  updated based on the category selection
 

@@ -25,3 +25,8 @@ Created a Growth Indicator Shapes  that is based on the Growth %
 Growth % corresponding to "Select Category" and "Select Year ",Growth indicator displays negative values as a red arrow showing left and positive values as a green  arrow showing right.
 
 
+**Trend Chart**
+
+Trend chart shows a trend line of the year corresponding to the  category selection.
+
+

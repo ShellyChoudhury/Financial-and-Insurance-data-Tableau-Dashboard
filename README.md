@@ -9,7 +9,9 @@ Secondary Dataset -  Global Financial Development database
 
 ## Dashboard features
 Created an interactive dashboards with the folowing features
+
 **Map**
+
 Map diplays countries by income level.It has been linked  with wikipedia and income level , made dynamic by using filters.
 
 **KPI Table**

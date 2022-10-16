@@ -16,6 +16,12 @@ Map diplays countries by income level.It has been linked  with wikipedia and inc
 
 **KPI Table**
 
-KPI table shows the comparison between selected period and the period prior to the selected one. Two parametes, "Select Category" and "Select Year" have been created for this comparison. "Select Category" parameter includes life insurance share, market share, penetration, ratio of reinsurance accepted, and retention ratio
+KPI table shows the comparison between selected period and the period prior to the selected one. Two parametes, "Select Category" and "Select Year" have been created for this comparison. "Select Category" parameter includes life insurance share, market share, penetration, ratio of reinsurance accepted, and retention ratio.
 Created a calculated field to calculate the Growth in %. Table gets  updated based on the category selection
+
+**Growth Indicator**
+
+Created a Growth Indicator Shapes  that is based on the Growth %
+Growth % corresponding to "Select Category" and "Select Year ",Growth indicator displays negative values as a red arrow showing left and positive values as a green  arrow showing right.
+
 
